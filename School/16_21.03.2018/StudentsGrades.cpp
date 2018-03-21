@@ -15,14 +15,14 @@ int main()
 		
 		if ( nums[i] < smallest) {
 			smallest = nums[i];
-        }
+		}
         
-        if (nums[i] == 6 ) {
+		if (nums[i] == 6 ) {
 			excelentGrades++;
 		}
 	}
 
-    cout << "The smallest grade is: " << smallest << endl;
+	cout << "The smallest grade is: " << smallest << endl;
 	cout << "The average grade is: " << grades / 26 << endl;
 	cout << excelentGrades << " excelent grades" << endl;
 
