@@ -1,0 +1,8 @@
+﻿  Exercise_06.cpp
+d:\georgi - 10a\2. functions\exercise_06\exercise_06.cpp(38): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Generating code
+  Finished generating code
+  2 of 14 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Exercise_06.vcxproj -> D:\Georgi - 10A\2. Functions\x64\Release\Exercise_06.exe
