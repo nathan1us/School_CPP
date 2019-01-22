@@ -46,7 +46,7 @@ int main()
 			cout << "Enter a name: ";
 			cin.getline(students[i].name, 30);
 			cout << "Enter a school: ";
-			cin.getline(students[i].school, 30);
+			cin.getline(students[i].school, 50);
 			cout << "Enter the year of birth: ";
 			cin >> students[i].yearOfBirth;
 			cout << "Enter a subject: ";
